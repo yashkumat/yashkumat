@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://twitter.com/yashkumat" target="blank"><img src="https://img.shields.io/twitter/follow/yashkumat?logo=twitter&style=for-the-badge" alt="yashkumat" /></a> </p>
 
 
+- 💬 Ask me about **Bootstrap, Laravel**
 - 🌱 I’m currently learning **Reactjs, Firebase**
 
 - 👨‍💻 Some of my projects
@@ -35,7 +36,7 @@
   - [Inventory in Laravel](https://github.com/yashkumat/laravel-inventory)
   - [Social Media Application in React](https://readresearch-88.web.app/)
 
-- 💬 Ask me about **Bootstrap, Laravel**
+
 
 - 📫 How to reach me **ykumat@gmail.com**
 
@@ -56,5 +57,3 @@
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yashkumat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yashkumat" /></a></p><br><br> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashkumat&show_icons=true&locale=en" alt="yashkumat" /></p>
