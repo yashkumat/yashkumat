@@ -19,7 +19,7 @@
   - [Snake Game](https://yashkumat.github.io/js-game)
   - [Bafna Farms](https://yashkumat.github.io/bafnaFarms)
   - [Billing System](https://yashkumat.github.io/BillingSystem)
-  - [Jay Malhar Chinese](https://yashkumat.github.io/jay_malhar)
+  - [Jay Malhar Chinese](https://yashkumat.github.io/jay-malhar)
   - [Ashtavinayak Darshan](https://yashkumat.github.io/ashtavinayak-darshan/)
   - [Kirana List](https://yashkumat.github.io/list)
   - [Toss A Coin](https://yashkumat.github.io/tossACoin)
