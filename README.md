@@ -16,7 +16,7 @@
   - [Meera EV](https://yashkumat.github.io/meeraevs) 
   - [My Portfolio](https://yashkumat.github.io/yashkumat) 
   - [SK Sandwich Hub](https://yashkumat.github.io/sks)
-  - [Snake Game](https://yashkumat.github.io/js_game)
+  - [Snake Game](https://yashkumat.github.io/js-game)
   - [Bafna Farms](https://yashkumat.github.io/bafnaFarms)
   - [Billing System](https://yashkumat.github.io/BillingSystem)
   - [Jay Malhar Chinese](https://yashkumat.github.io/jay_malhar)
