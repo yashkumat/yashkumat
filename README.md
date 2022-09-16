@@ -11,8 +11,7 @@
 
 - 👨‍💻 Some of my projects
   - [NKM Planning Solutions](http://nkmplanning.com) 
-  - [Faxonics](https://faxonics.com) 
-  - [Memorize Tables](https://yashkumat.github.io/memorize_table) 
+  - [Memorize Tables](https://yashkumat.github.io/memorize_tables) 
   - [Math Practice](https://yashkumat.github.io/MathPractice) 
   - [Meera EV](https://yashkumat.github.io/meeraev) 
   - [My Portfolio](https://yashkumat.github.io/yashkumat) 
