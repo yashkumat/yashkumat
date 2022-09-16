@@ -10,6 +10,7 @@
 
 - 👨‍💻 Some of my projects
   - [NKM Planning Solutions](http://nkmplanning.com) 
+  - [Faxonics](https://faxonics.com) 
   - [Memorize Tables](https://yashkumat.github.io/memorize_table) 
   - [Math Practice](https://yashkumat.github.io/MathPractice) 
   - [Meera EV](https://yashkumat.github.io/meeraev) 
@@ -38,7 +39,7 @@
 
 - 📫 How to reach me **ykumat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B5p-hkEPkAMOKGJ-085BWmL8KjeeLuW-/view?usp=sharing](https://drive.google.com/file/d/1B5p-hkEPkAMOKGJ-085BWmL8KjeeLuW-/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1B5p-hkEPkAMOKGJ-085BWmL8KjeeLuW-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
