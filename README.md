@@ -13,7 +13,7 @@
   - [NKM Planning Solutions](http://nkmplanning.com) 
   - [Memorize Tables](https://yashkumat.github.io/memorize_tables) 
   - [Math Practice](https://yashkumat.github.io/MathPractice) 
-  - [Meera EV](https://yashkumat.github.io/meeraev) 
+  - [Meera EV](https://yashkumat.github.io/meeraevs) 
   - [My Portfolio](https://yashkumat.github.io/yashkumat) 
   - [SK Sandwich Hub](https://yashkumat.github.io/sks)
   - [Snake Game](https://yashkumat.github.io/js_game)
