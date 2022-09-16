@@ -24,7 +24,7 @@
   - [Kirana List](https://yashkumat.github.io/list)
   - [Toss A Coin](https://yashkumat.github.io/tossACoin)
   - [Generate Business Card](https://yashkumat.github.io/businessCard)
-  - [Ankit Dryfruits](https://yashkumat.github.io/AnkitDryFruits)
+  - [Ankit Dryfruits](https://yashkumat.github.io/AnkitDryfruits/)
   - [Portfolio - CA Hardika Kumat](https://yashkumat.github.io/CAHardikaKumat)
   - [Portfolio - Mitesh Bhatt](https://miteshbhatt.github.io/miteshbhatt/)
   - [Portfolio - Rutik Jadhav](https://rutik-jadhav.herokuapp.com/)
