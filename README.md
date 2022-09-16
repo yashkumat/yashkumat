@@ -5,15 +5,34 @@
 
 <p align="left"> <a href="https://twitter.com/yashkumat" target="blank"><img src="https://img.shields.io/twitter/follow/yashkumat?logo=twitter&style=for-the-badge" alt="yashkumat" /></a> </p>
 
-- 🔭 I’m currently working on [Vacation Home Rental App](will be provided soon)
 
 - 🌱 I’m currently learning **Reactjs, Firebase**
 
 - 👨‍💻 Some of my projects
+  - [NKM Planning Solutions](http://nkmplanning.com) 
   - [Memorize Tables](https://yashkumat.github.io/memorize_table) 
-  - [https://yashkumat.github.io/sks] (SK Sandwich Hub)
-  - [https://yashkumat.github.io/js_game] (Snake Game)
-  - [https://yashkumat.github.io/jay_malhar] (Jay Malhar Chiness)
+  - [Math Practice](https://yashkumat.github.io/MathPractice) 
+  - [Meera EV](https://yashkumat.github.io/meeraev) 
+  - [My Portfolio](https://yashkumat.github.io/yashkumat) 
+  - [SK Sandwich Hub](https://yashkumat.github.io/sks)
+  - [Snake Game](https://yashkumat.github.io/js_game)
+  - [Bafna Farms](https://yashkumat.github.io/bafnaFarms)
+  - [Billing System](https://yashkumat.github.io/BillingSystem)
+  - [Jay Malhar Chinese](https://yashkumat.github.io/jay_malhar)
+  - [Ashtavinayak Darshan](https://yashkumat.github.io/ashtavinayak-darshan/)
+  - [Kirana List](https://yashkumat.github.io/list)
+  - [Toss A Coin](https://yashkumat.github.io/tossACoin)
+  - [Generate Business Card](https://yashkumat.github.io/businessCard)
+  - [Ankit Dryfruits](https://yashkumat.github.io/AnkitDryFruits)
+  - [Portfolio - CA Hardika Kumat](https://yashkumat.github.io/CAHardikaKumat)
+  - [Portfolio - Mitesh Bhatt](https://miteshbhatt.github.io/miteshbhatt/)
+  - [Portfolio - Rutik Jadhav](https://rutik-jadhav.herokuapp.com/)
+  - [Zoo - Animal Information](https://yashkumat.github.io/my-zoo)
+  - [List Maker - Mahavir Kirana](https://yashkumat.github.io/MahavirKirana)
+  - [ToDo List in Js](https://yashkumat.github.io/ToDoList)
+  - [ToDo List in React](https://github.com/yashkumat/React-Firebase-todolist)
+  - [Inventory in Laravel](https://github.com/yashkumat/laravel-inventory)
+  - [Social Media Application in React](https://readresearch-88.web.app/)
 
 - 💬 Ask me about **Bootstrap, Laravel**
 
