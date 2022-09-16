@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Reactjs, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashkumat](https://github.com/yashkumat)
+- 👨‍💻 Some of my projects
+  - [https://yashkumat.github.io/memorize_table/](Memorize Tables)
 
 - 💬 Ask me about **Bootstrap, Laravel**
 
