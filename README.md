@@ -37,9 +37,9 @@
 
 
 
-- 📫 How to reach me [**ykumat@gmail.com**](mailto:ykumat@gmail.com)
+- 📫 [**ykumat@gmail.com**](mailto:ykumat@gmail.com)
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1B5p-hkEPkAMOKGJ-085BWmL8KjeeLuW-/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1B5p-hkEPkAMOKGJ-085BWmL8KjeeLuW-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
