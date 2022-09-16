@@ -37,7 +37,7 @@
 
 
 
-- 📫 How to reach me **ykumat@gmail.com**
+- 📫 How to reach me [**ykumat@gmail.com**](mailto:ykumat@gmail.com)
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1B5p-hkEPkAMOKGJ-085BWmL8KjeeLuW-/view?usp=sharing)
 
