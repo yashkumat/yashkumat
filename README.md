@@ -10,7 +10,10 @@
 - 🌱 I’m currently learning **Reactjs, Firebase**
 
 - 👨‍💻 Some of my projects
-  - [https://yashkumat.github.io/memorize_table/](Memorize Tables)
+  - [https://yashkumat.github.io/memorize_table] (Memorize Tables)
+  - [https://yashkumat.github.io/sks] (SK Sandwich Hub)
+  - [https://yashkumat.github.io/js_game] (Snake Game)
+  - [https://yashkumat.github.io/jay_malhar] (Jay Malhar Chiness)
 
 - 💬 Ask me about **Bootstrap, Laravel**
 
