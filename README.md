@@ -7,7 +7,7 @@
 
 
 - 💬 Ask me about **Bootstrap, Laravel**
-- 🌱 I’m currently learning **Reactjs, Firebase**
+- 🌱 I’m currently learning **Reactjs, Nodejs**
 
 - 👨‍💻 Some of my projects
   - [NKM Planning Solutions](http://nkmplanning.com) 
