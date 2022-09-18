@@ -11,7 +11,10 @@
 
 - 👨‍💻 Some of my projects
   - [NKM Planning Solutions](http://nkmplanning.com) 
-  - [Memorize Tables](https://yashkumat.github.io/memorize_tables) 
+  - [Memorize Tables](https://yashkumat.github.io/memorize_tables)
+  - [A For Apple](https://yashkumat.github.io/a_for_apple)
+  - [Alphabets](https://yashkumat.github.io/alphabets)
+  - [Numbers](https://yashkumat.github.io/number_to_words)
   - [Math Practice](https://yashkumat.github.io/MathPractice) 
   - [Meera EV](https://yashkumat.github.io/meeraevs) 
   - [My Portfolio](https://yashkumat.github.io/yashkumat) 
