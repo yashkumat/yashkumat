@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkumat&label=Profile%20views&color=0e75b6&style=flat" alt="yashkumat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yashkumat" target="blank"><img src="https://img.shields.io/twitter/follow/yashkumat?logo=twitter&style=for-the-badge" alt="yashkumat" /></a> </p>
-
-
 - 💬 Ask me about **Bootstrap, Laravel**
 - 🌱 I’m currently learning **Reactjs, Nodejs**
 
